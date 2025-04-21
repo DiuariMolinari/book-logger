@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BookLogger.Domain\BookLogger.Domain.csproj" />
+    <ProjectReference Include="..\BookLogger.Infrastructure\BookLogger.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

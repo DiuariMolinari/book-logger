@@ -1,4 +1,4 @@
-﻿namespace BookLogger.Domain
+﻿namespace BookLogger.Domain.Entities
 {
     public class Author
     {
